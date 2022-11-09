@@ -23,8 +23,17 @@ You are required to model the price of houses with the available independent var
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Demand of bikes depend on windspeed, workingday, season_spring, season_summer, yr, season_winter, mnth_January, weathersit_mist,      
-  weekday_saturday, mnth_September, weathersit_light
+- We are able to achieve an R2 score of 0.82 approx on both Ridge and Lasso Models. 
+The follwing factors influence the house price the most as demosntrated by both the models:-
+- Total area in square foot
+- Total Garage Area
+- Total Rooms
+- Overall Condition
+- Lot Area
+- Centrally Air Conditioned
+- Total Porch Area (Open + Enclosed)
+- Kitchen Quality
+- Basement Quality
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
